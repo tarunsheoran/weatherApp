@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base application colors -->
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#0288D1</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+
+    <!-- Chart colors -->
+    <color name="temperatureColor">#FF5252</color> <!-- Red for temperature -->
+    <color name="humidityColor">#4CAF50</color> <!-- Green for humidity -->
+    <color name="seaLevelColor">#2196F3</color> <!-- Blue for sea level pressure -->
+    <color name="valueTextColor">#FFFFFF</color> <!-- White for text -->
+    <color name="white">#FFFFFF</color>
+
+    <!-- Background colors -->
+    <color name="chartBackground">#FFFFFF</color>
+</resources>
